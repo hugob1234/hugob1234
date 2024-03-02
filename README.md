@@ -1,6 +1,12 @@
-Hello , my name is Hugo and im an aspiring AI engineer.
+Hello , my name is Hugo Burton.
 
-I am 17 years old.
+I am half polish and half english.
 
-Have experience with python , ruby , html , css , JavaScript 
+Im 17 yrs old.
+
+Languages(i have experience with): python , html , css , javascript , ruby.
+
+I would to work in tech industry in future.
+
+
 
