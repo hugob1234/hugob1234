@@ -1,6 +1,6 @@
 Hello , my name is Hugo Burton.
 
-I am half polish and half english.
+I am half polish 🇵🇱 and half english 🇬🇧.
 
 Im 17 yrs old.
 
