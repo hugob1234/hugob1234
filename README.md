@@ -4,7 +4,7 @@ I am half polish 🇵🇱 and half english 🇬🇧.
 
 Im 16 yrs old.
 
-Languages(i have experience with): python , html , css , javascript , ruby.
+Languages(i have used): python , html , css , javascript , ruby.
 
 I would like to work in the tech industry in future.
 
